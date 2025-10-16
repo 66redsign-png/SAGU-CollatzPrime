@@ -1,0 +1,27 @@
+title: SAGU x Collatz–Prime
+description: Formal Results & Toolkit (SAGU + Collatz–Prime)
+theme: minima
+
+# 사이트 URL/베이스 설정 (꼭 맞게)
+url: "https://66redsign-png.github.io"
+baseurl: "/SAGU-CollatzPrime"   # 저장소 이름과 동일
+
+# Markdown 엔진 및 확장
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# GitHub Pages에서 허용되는 플러그인만 사용
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 네비게이션(선택)
+nav:
+  - title: Home
+    url: /
+  - title: EN Summary
+    url: /문서/SAGU_Project_Summary_v1_EN.html
+  - title: KO 요약
+    url: /문서/SAGU_Project_Summary_v1_KO.html
