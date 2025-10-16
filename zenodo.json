@@ -1,0 +1,32 @@
+{
+  "title": "SAGU x Collatz\u2013Prime: Formal Results & Toolkit",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "LEE, SANG JUNG"
+    }
+  ],
+  "description": "Formal results + minimal toolkit (ASCII spec, Lean/Coq, Python demo).",
+  "license": "MIT",
+  "keywords": [
+    "SAGU",
+    "Collatz",
+    "square inversion",
+    "energy quasi-conservation",
+    "mass gap proxy"
+  ],
+  "notes": "GitHub release v1.0.1; archived on Zenodo",
+  "version": "v1.0.1",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/66redsign-png/SAGU-CollatzPrime"
+    },
+    {
+      "relation": "isAlternateIdentifier",
+      "identifier": "10.5281/zenodo.17365703"
+    }
+  ],
+  "language": "eng",
+  "access_right": "open"
+}
