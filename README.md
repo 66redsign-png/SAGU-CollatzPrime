@@ -1,5 +1,7 @@
 # SAGU x Collatz–Prime: 공식 결과 및 툴킷
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17365703.svg)](https://doi.org/10.5281/zenodo.17365703)
+
 간결하고 재현 가능한 패키지: 수학 노트(LaTeX), 증명 스케치(Lean/Coq), 간단한 Python 데모.
 
 ## 빠른 시작 (Python)
