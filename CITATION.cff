@@ -1,19 +1,35 @@
 cff-version: 1.2.0
 title: "SAGU x Collatz–Prime: Formal Results & Toolkit"
 authors:
-  - family-names: LEE
-    given-names: SANG JUNG
+  - family-names: Lee
+    given-names: Sang Jung
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # (있으면 추가)
 version: v1.0.1
 date-released: 2025-10-16
 url: https://github.com/66redsign-png/SAGU-CollatzPrime
 repository-code: https://github.com/66redsign-png/SAGU-CollatzPrime
 license: MIT
+abstract: >
+  Formal results and a minimal toolkit for SAGU x Collatz–Prime: square inversion
+  at L-infinity boundary, non-stalling displacement, finite-time boundary hit,
+  cycle energy quasi-conservation, and spectral proxy equivalence.
+keywords:
+  - SAGU
+  - Collatz
+  - square inversion
+  - energy quasi-conservation
+  - mass gap proxy
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17365703
 preferred-citation:
-  type: misc
+  type: software
   title: "SAGU x Collatz–Prime: Formal Results & Toolkit"
   authors:
-    - family-names: LEE
-      given-names: SANG JUNG
+    - family-names: Lee
+      given-names: Sang Jung
+  version: v1.0.1
   year: 2025
   doi: 10.5281/zenodo.17365703
+  url: https://github.com/66redsign-png/SAGU-CollatzPrime
   note: "GitHub release v1.0.1; archived on Zenodo"
