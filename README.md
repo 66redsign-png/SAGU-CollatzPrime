@@ -1,5 +1,6 @@
 # SAGU x Collatz–Prime: Formal Results & Toolkit (v1)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17365703.svg)](https://doi.org/10.5281/zenodo.17365703)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 ![status](https://img.shields.io/badge/status-research--prototype-blue)
 
