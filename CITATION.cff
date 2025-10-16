@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "SAGU x Collatz–Prime: Formal Results & Toolkit"
+authors:
+- family-names: YourFamilyName
+given-names: YourGivenName
+orcid: "0000-0000-0000-0000" # optional
+version: v1.0.0
+date-released: 2025-10-16
+url: https://github.com/yourname/SAGU-CollatzPrime # replace after creating the repo
+repository-code: https://github.com/yourname/SAGU-CollatzPrime
+license: MIT
+preferred-citation:
+type: misc
+title: "SAGU x Collatz–Prime: Formal Results & Toolkit"
+authors:
+- family-names: YourFamilyName
+given-names: YourGivenName
+year: 2025
+note: "GitHub release v1.0.0; DOI via Zenodo"
