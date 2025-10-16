@@ -3,7 +3,7 @@ title: "SAGU x Collatz–Prime: Formal Results & Toolkit"
 authors:
   - family-names: LEE
     given-names: SANG JUNG
-version: v1.0.0
+version: v1.0.1
 date-released: 2025-10-16
 url: https://github.com/66redsign-png/SAGU-CollatzPrime
 repository-code: https://github.com/66redsign-png/SAGU-CollatzPrime
@@ -15,6 +15,5 @@ preferred-citation:
     - family-names: LEE
       given-names: SANG JUNG
   year: 2025
-  # doi: 10.5281/zenodo.XXXXXXX
-  note: "GitHub release v1.0.0; DOI via Zenodo"
-
+  doi: 10.5281/zenodo.17365703
+  note: "GitHub release v1.0.1; archived on Zenodo"
