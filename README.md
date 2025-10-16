@@ -18,3 +18,7 @@ python - <<'PY'
 from sagu_cosmic_tools import energy_div_demo
 print(energy_div_demo())
 PY
+## Contact
+- Maintainer: **SANG JUNG LEE** (이상전)
+- Email: [redsign66@naver.com](mailto:redsign66@naver.com)
+- Issues: https://github.com/66redsign-png/SAGU-CollatzPrime/issues
